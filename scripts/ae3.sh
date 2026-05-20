@@ -1,5 +1,5 @@
 #!/bin/bash
-#PBS -l select=1:ncpus=4:mem=4gb:ngpus=1:cl_konos=False
+#PBS -l select=1:ncpus=8:mem=4gb:ngpus=1:cl_konos=False
 #PBS -l walltime=12:00:00
 
 # TODO: fill in
